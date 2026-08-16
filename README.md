@@ -76,7 +76,7 @@ The project includes:
 
 The main ESP32 source code is provided in:
 
- Smart_fencing.ino
+ Source code.ino
 
 The ESP32-CAM camera functionality was implemented using the relevant Arduino IDE example and integrated as part of the overall project setup.
 
@@ -110,7 +110,7 @@ This project demonstrates practical experience with:
 
 ## 📁 Repository Contents
 
-- `Smart_fencing.ino` — Main ESP32 source code
-- `smart_fencing_project_summary.pdf` — Project summary
-- `Project_image.jpeg ,Blynk_template_Image.jpeg` — Project and Blynk interface images
-- `circuit_diagram.png` — Circuit diagram
+- `Source code.ino` — Main ESP32 source code
+- `hardware setup.jpeg` — Project images
+- `Blynk interface screenshot.jpeg` - Blynk interface images
+- `circuit diagram.png` — Circuit diagram
